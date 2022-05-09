@@ -1,0 +1,43 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+.jobs{
+	background: url(https://s30383.pcdn.co/wp-content/uploads/2020/12/topic-faculty-active-engaged-students-1.png);
+	width: 100%;
+	height: 100vh;
+	background-size: cover;
+	overflow: hidden;
+}
+.quick{
+	float: right;
+	display: inline-block;
+	padding-right: 100px;
+	padding-top: 30px;
+	text-align: center;
+}
+ul{
+	
+	text-align: right;
+	padding-right: 30px;
+}
+ul li{
+	display: inline-block;
+	list-style: none;
+	margin: 10px 30px;
+	font-display: block;
+	font-size: 18px;
+	color:blueviolet;
+	cursor: pointer;
+}
+ul li a{
+	position: relative;
+	text-decoration: none;
+	list-style: none;
+	font-style: 'TimesNewRoman';
+
+
+}
+ul li a:hover{
+	color:black ;
+}
